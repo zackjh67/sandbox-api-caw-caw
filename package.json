@@ -1,0 +1,25 @@
+{
+  "name": "sandbox-api-caw-caw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sandbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zackjh67/sandbox-api-caw-caw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zackjh67/sandbox-api-caw-caw/issues"
+  },
+  "homepage": "https://github.com/zackjh67/sandbox-api-caw-caw#readme",
+  "devDependencies": {
+    "serve": "^12.0.0"
+  },
+  "dependencies": {}
+}
